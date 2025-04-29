@@ -3,151 +3,168 @@
     {
       "bufferView": 2,
       "componentType": 5126,
-      "count": 2835,
+      "count": 65532,
       "max": [
-        2.594705104827881,
-        2.600403070449829,
-        6.095672130584717
+        6.805419921875,
+        6.592432975769043,
+        6.768400192260742
       ],
       "min": [
-        -2.5640900135040283,
-        -2.600403070449829,
-        -0.03903999924659729
+        0.0021669864654541016,
+        0.0,
+        0.0
       ],
       "type": "VEC3"
     },
     {
       "bufferView": 2,
-      "byteOffset": 34020,
+      "byteOffset": 786384,
       "componentType": 5126,
-      "count": 2835,
+      "count": 65532,
       "max": [
-        0.9993342161178589,
-        0.9979220032691956,
-        0.9999211430549622
+        0.9999856352806091,
+        0.9999927282333374,
+        0.9999939203262329
       ],
       "min": [
-        -0.9987362623214722,
-        -0.9998422265052795,
-        -0.9990358948707581
+        -0.9997051954269409,
+        -0.9999788999557495,
+        -0.999975860118866
       ],
       "type": "VEC3"
     },
     {
-      "bufferView": 3,
-      "componentType": 5126,
-      "count": 2835,
-      "max": [
-        0.9999299049377441,
-        0.9992161393165588,
-        0.9994904398918152,
-        1.0
-      ],
-      "min": [
-        -0.998887300491333,
-        -0.9989103674888611,
-        -0.969822347164154,
-        1.0
-      ],
-      "type": "VEC4"
-    },
-    {
       "bufferView": 1,
       "componentType": 5126,
-      "count": 2835,
+      "count": 65532,
       "max": [
-        0.9941369891166687,
-        0.9943519830703735
+        0.9879260063171387,
+        0.9981679916381836
       ],
       "min": [
-        0.005468000192195177,
-        0.008170000277459621
+        0.01233300007879734,
+        0.004327999893575907
       ],
       "type": "VEC2"
     },
     {
       "bufferView": 0,
       "componentType": 5125,
-      "count": 15426,
+      "count": 361704,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1572768,
+      "componentType": 5126,
+      "count": 9873,
+      "max": [
+        4.401035785675049,
+        5.805345058441162,
+        6.768400192260742
+      ],
+      "min": [
+        0.0,
+        0.0008459091186523438,
+        0.511152982711792
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1691244,
+      "componentType": 5126,
+      "count": 9873,
+      "max": [
+        0.9953364133834839,
+        0.9898461103439331,
+        0.9998811483383179
+      ],
+      "min": [
+        -0.9999074339866638,
+        -0.9999776482582092,
+        -0.9994719624519348
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 524256,
+      "componentType": 5126,
+      "count": 9873,
+      "max": [
+        0.9951620101928711,
+        0.9984380006790161
+      ],
+      "min": [
+        0.005104999989271164,
+        0.003961999900639057
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 1446816,
+      "componentType": 5125,
+      "count": 35538,
       "type": "SCALAR"
     }
   ],
   "asset": {
     "extras": {
-      "author": "DigitalSouls (https://sketchfab.com/DigitalSouls)",
-      "license": "CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)",
-      "source": "https://sketchfab.com/3d-models/delicious-red-apple-dc5a0c0c439942d58d038a10d7064c91",
-      "title": "Delicious Red Apple"
+      "author": "linfredriksson (https://sketchfab.com/linfredriksson)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/apple-50ffb91434ea4d978eaefe03220d36fe",
+      "title": "Apple"
     },
-    "generator": "Sketchfab-12.66.0",
+    "generator": "Sketchfab-12.68.0",
     "version": "2.0"
   },
   "bufferViews": [
     {
       "buffer": 0,
-      "byteLength": 61704,
+      "byteLength": 1588968,
       "name": "floatBufferViews",
       "target": 34963
     },
     {
       "buffer": 0,
-      "byteLength": 22680,
-      "byteOffset": 61704,
+      "byteLength": 603240,
+      "byteOffset": 1588968,
       "byteStride": 8,
       "name": "floatBufferViews",
       "target": 34962
     },
     {
       "buffer": 0,
-      "byteLength": 68040,
-      "byteOffset": 84384,
+      "byteLength": 1809720,
+      "byteOffset": 2192208,
       "byteStride": 12,
-      "name": "floatBufferViews",
-      "target": 34962
-    },
-    {
-      "buffer": 0,
-      "byteLength": 45360,
-      "byteOffset": 152424,
-      "byteStride": 16,
       "name": "floatBufferViews",
       "target": 34962
     }
   ],
   "buffers": [
     {
-      "byteLength": 197784,
+      "byteLength": 4001928,
       "uri": "scene.bin"
     }
   ],
   "images": [
     {
-      "uri": "textures/lambert2SG_baseColor.png"
-    },
-    {
-      "uri": "textures/lambert2SG_metallicRoughness.png"
-    },
-    {
-      "uri": "textures/lambert2SG_normal.png"
+      "uri": "textures/apple_baseColor.jpeg"
     }
   ],
   "materials": [
     {
       "doubleSided": true,
-      "name": "lambert2SG",
-      "normalTexture": {
-        "index": 2
-      },
-      "occlusionTexture": {
-        "index": 1
-      },
+      "name": "apple",
       "pbrMetallicRoughness": {
         "baseColorTexture": {
           "index": 0
         },
-        "metallicRoughnessTexture": {
-          "index": 1
-        }
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.5700000000000001
       }
     }
   ],
@@ -159,10 +176,24 @@
           "attributes": {
             "NORMAL": 1,
             "POSITION": 0,
-            "TANGENT": 2,
-            "TEXCOORD_0": 3
+            "TEXCOORD_0": 2
           },
-          "indices": 4,
+          "indices": 3,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Object_1",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 5,
+            "POSITION": 4,
+            "TEXCOORD_0": 6
+          },
+          "indices": 7,
           "material": 0,
           "mode": 4
         }
@@ -198,11 +229,40 @@
       "children": [
         2
       ],
-      "name": "Red_Apple.obj.cleaner.materialmerger.gles"
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        -3.254879951477051,
+        -3.3418519496917725,
+        -3.5183489322662354,
+        1.0
+      ],
+      "name": "apple.obj.cleaner.gles"
+    },
+    {
+      "children": [
+        3,
+        4
+      ],
+      "name": "Object_2"
     },
     {
       "mesh": 0,
-      "name": "Object_2"
+      "name": "Object_3"
+    },
+    {
+      "mesh": 1,
+      "name": "Object_4"
     }
   ],
   "samplers": [
@@ -226,14 +286,6 @@
     {
       "sampler": 0,
       "source": 0
-    },
-    {
-      "sampler": 0,
-      "source": 1
-    },
-    {
-      "sampler": 0,
-      "source": 2
     }
   ]
 }
