@@ -1,11 +1,11 @@
 Model Information:
-* title:	Watermelon Fruit 3d model
-* source:	https://sketchfab.com/3d-models/watermelon-fruit-3d-model-f38bb99700b24208999a448172649638
-* author:	srikanthsamba (https://sketchfab.com/srikanthsamba)
+* title:	Gachapon ball
+* source:	https://sketchfab.com/3d-models/gachapon-ball-471a501039ae4758969137955c7e2ebd
+* author:	RasenDan (https://sketchfab.com/RasenDan)
 
 Model License:
 * license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
 * requirements:	Author must be credited. Commercial use is allowed.
 
 If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
-This work is based on "Watermelon Fruit 3d model" (https://sketchfab.com/3d-models/watermelon-fruit-3d-model-f38bb99700b24208999a448172649638) by srikanthsamba (https://sketchfab.com/srikanthsamba) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+This work is based on "Gachapon ball" (https://sketchfab.com/3d-models/gachapon-ball-471a501039ae4758969137955c7e2ebd) by RasenDan (https://sketchfab.com/RasenDan) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
